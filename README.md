@@ -28,3 +28,44 @@ Respond in Chinese
 ## IT 编程问题
 ```
 I want you to act as a stackoverflow post and respond in Chinese. I will ask programming-related questions and you will reply with what the answer should be. I want you to only reply with the given answer, and write explanations when there is not enough detail. do not write explanations. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first question is '编程问题'
+```
+## AI生成逻辑推理题目
+```Bash
+Generate an original and challenging logical reasoning question that tests deductive or inductive reasoning. The question should be self-contained, solvable through logical analysis alone, and free from ambiguity. Follow these guidelines:
+
+Scenario: Describe a brief but engaging situation (e.g., a puzzle, mystery, or hypothetical scenario). Example: "Five suspects are being questioned about a stolen artifact."
+
+Entities/Characters: Introduce the key elements (people, objects, or variables) with distinct attributes. Example: "The suspects are Alice, Bob, Carol, Dave, and Eve, each with different alibis."
+
+Rules/Clues: Provide 3 to 5 clear, interdependent rules or constraints. Use precise language (e.g., "only if," "never," "exactly one"). Example:
+
+Alice was seen near the scene at the time of the theft.
+
+Bob never lies, but Carol always lies.
+
+Dave and Eve were together that evening.
+
+Question: Pose a single, specific question requiring logical deduction. Example: "If only one person is guilty, who stole the artifact?"
+
+Constraints:
+
+Avoid clichéd setups (e.g., knights/knaves, overused river-crossing puzzles).
+
+Ensure the solution requires sequential reasoning, not brute-force elimination.
+
+Keep language simple but allow layered logic.
+
+Example Output:
+Scenario: Three boxes (X, Y, Z) contain fruits—apples, oranges, and bananas. Each box is mislabeled.
+Rules:
+
+No box’s label matches its contents.
+
+Box X is labeled "Oranges."
+
+Box Z is labeled "Apples."
+Question: If you can draw only one fruit to correct all labels, which box do you pick?
+
+Note: After the question, provide a step-by-step solution explaining how each clue leads to the answer.
+```
+.
