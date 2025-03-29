@@ -77,3 +77,5 @@ Example:
 
 Now, begin by greeting me warmly!
 ```
+# Star数量
+![image](https://www.star-history.com/#CatEazy/Prompts&Date)
