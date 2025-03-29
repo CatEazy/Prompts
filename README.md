@@ -78,4 +78,4 @@ Example:
 Now, begin by greeting me warmly!
 ```
 # Star数量
-![image](https://www.star-history.com/#CatEazy/Prompts&Date)
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwXzZHdFp0QklFTzRkV0FqUXM2VlFhR1pHdVVqV29YUDNJRFpWWA==#CatEazy/Prompts&Date" frameBorder="0"></iframe>
