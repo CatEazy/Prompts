@@ -1,5 +1,5 @@
 # 腾讯云AI代码助手(已支持Craft模式相当于Cursor的Composer)
-## 博客系统开发实例
+## 博客系统开发示例
 ```Bash
 用Spring Boot + Recat开发一个项目,要求如下:
 ## 需求
