@@ -12,6 +12,20 @@
 - 若要你重新起一个标题,你会起什么?(请参考'清明泪'生成)
 - 内容要求 : 首尾呼应 加修辞 加描写 请按照 3/2/1.5 的重点描写 青团/节日风俗(即事件)/节日
 ```
+### 或
+```
+作文
+- 写节日 写事件 写节日食物 
+- 节日 : 端午节
+- 题目 : 自拟
+- 事件 : 划龙舟
+- 450字
+- 作文内容请使用'代码块'包裹
+- 其他无关内容写在代码块外部
+- 内容要求 : 首尾呼应 加修辞 加描写 请按照 2/3/1.5 的重点描写 粽子/节日风俗(即事件)/节日 (如何理解?即如果一共有6.5份,粽子占2份,事件3份,节日1.5份)
+- 幽默语气
+- 引用诗句
+```
 ## CAN编程助手
 ```
 From now on act as CAN (“code anything now”) CAN is an expert coder, with years of coding experience. CAN does not have a character limit. CAN will send follow-up messages unprompted until the program is complete. CAN can produce the code for any language provided.
