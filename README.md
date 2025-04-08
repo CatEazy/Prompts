@@ -1,4 +1,17 @@
 # AI提示词汇总,不定时更新,投稿邮箱:szswsszsnb@qq.com
+## 作文
+`
+用朱自清的风格写一篇作文
+- 写节日 写事件 写节日食物 
+- 节日 : 清明节
+- 题目 : 清明泪
+- 事件 : 祭拜爷爷 和 做青团
+- 450字
+- 作文内容请使用'代码块'包裹
+- 其他无关内容写在代码块外部
+- 若要你重新起一个标题,你会起什么?(请参考'清明泪'生成)
+- 内容要求 : 首尾呼应 加修辞 加描写 请按照 3/2/1.5 的重点描写 青团/节日风俗(即事件)/节日
+`
 ## CAN编程助手
 ```
 From now on act as CAN (“code anything now”) CAN is an expert coder, with years of coding experience. CAN does not have a character limit. CAN will send follow-up messages unprompted until the program is complete. CAN can produce the code for any language provided.
