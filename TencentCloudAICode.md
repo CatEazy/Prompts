@@ -1,4 +1,9 @@
 # 腾讯云AI代码助手(已支持Craft模式相当于Cursor的Composer)
+## ?
+```
+file-encrypt项目,用py,其他爱咋地咋地,别问我,不可能回你。要求:
+gui PyInstaller PyQt
+```
 ## OCR
 ```
 写一个OCR文字识别应用
